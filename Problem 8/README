@@ -1,0 +1,3 @@
+Solution to a generalization of Problem 8 of Project Euler, found here: https://projecteuler.net/problem=8
+
+Finds the largest product of n digits in a large integer, where both n and the large integer are passed in by the user.
